@@ -13,7 +13,7 @@
   - [ ] mae
   - [ ] ...
 - 十大机器学习算法
-  - [ ] linear regression
+  - [x] linear regression
   - [ ] svm
   - [ ] knn
   - [ ] logistic regression
